@@ -1,3 +1,5 @@
-Hey there! My name is shrezird, which is pronounced as (sh-reh-zurd). Don’t ask me how I came up with the name… just don’t. So if by some miracle you’re actually reading this right now… well then I’m assuming my ungodly amount of social media accounts worked out after all. Anyways, welcome to my GitHub. There isn’t much here currently because as of right now, I’m still pretty early into independent game development and I also spend 99.9% of my spare time procrastinating because ADHD is just awesome. But if you’re interested in learning more about me, you can check out my tons of social media accounts or alternatively, you can check out my frigging amazing website that totally didn’t take me about 6 months to finish. Ciao!
+Hey there! My name is Shrezird (pronounced sh-reh-zurd). Don’t ask me how I came up with the name… just don’t. If you’re actually reading this, it means my numerous social media accounts worked out after all. Welcome to my GitHub!
+
+There’s not much here at the moment because I’m still early in my journey as an independent game developer. I spend 99.9% of my spare time procrastinating (thanks, ADHD!) and the rest working full-time. If you want to learn more about me, feel free to check out my many social media accounts or my amazing website that totally didn’t take me about 8 months to finish. Ciao!
 
 PS: You are amazing.
