@@ -1,1 +1,1 @@
-Hey there! My name is Shrezird (pronounced sh-reh-zurd). Don’t ask me how I came up with the name… just don’t. If you’re actually reading this, it means my numerous social media accounts worked out after all. Or... I did something to piss you off. Either way... WELCOME TO MY GITHUB!
+410
