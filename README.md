@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">- Hey everyone, my name is shrezird! I'm just an awkward software engineer with an intense case of shiny object syndrome, which, unfortunately, means my current list of unfinished projects is about as chaotic as my sleep schedule.<br><br>- I work best with languages like Python, HTML, CSS, and JavaScript, but I also have experience with VBScript and a bit of C++.<br><br>- Currently my main focus is working on simple project's in Roblox until something new distracts me.</p>
+<p align="left">- Hey everyone, my name is shrezird! I'm just an awkward software engineer with an intense case of shiny object syndrome, which, unfortunately, means my current list of unfinished projects is about as chaotic as my sleep schedule.<br><br>- I work best with languages like Python, HTML, CSS, and JavaScript, but I also have experience with VBScript and a bit of C++.<br><br>- Currently my main focus is now to learn and use the Odin programming language.</p>
 
 ###
 
