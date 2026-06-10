@@ -9,8 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-plain.svg" height="30" alt="go logo"  />
-  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-plain.svg" height="50" alt="go logo"  />
 </div>
 
 ###
@@ -19,7 +18,7 @@
 
 ###
 
-<p align="left">- Hey everyone, my name is shrezird! I'm just an awkward software engineer with an intense case of shiny object syndrome, which, unfortunately, means my current list of unfinished projects is about as chaotic as my sleep schedule.<br><br>- Currently my main focus is now to learn and use the Go programming language.</p>
+<p align="left">- Hey everyone, my name is shrezird! I'm just an awkward guy with an intense case of shiny object syndrome, which, unfortunately, means my current list of unfinished projects is about as chaotic as my sleep schedule.<br><br>- Currently my main focus is now to learn and use the Go programming language.</p>
 
 ###
 
